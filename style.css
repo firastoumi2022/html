@@ -1,38 +1,29 @@
-header{
+header {
     max-width: 50vh;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(217, 160, 160);
 }
-ul{
+
+ul#menu li{
     display: inline;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     min-width: 30vh;
     color: darkseagreen;
 }
 
-body{
+body {
     min-height: 90vh;
     font-family: Arial, Helvetica, sans-serif;
     color: blueviolet;
     background-color: rgb(10, 22, 21);
-    align-items: stretch ;
-  }
+    align-items: stretch;
+}
 
-  main{
+main {
     min-width: 150vh;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(82, 199, 144);
     background-color: azure;
-    border: 5px solid ;
+    border: 5px solid;
     border-radius: 8px;
 }
-
-
-
-    
- 
-
-  
-    
-
-  
